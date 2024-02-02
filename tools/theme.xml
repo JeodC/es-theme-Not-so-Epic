@@ -11,10 +11,7 @@
             <text>Tools</text>
         </text>
         <text name="shortdescription" extra="true">
-            <text>System Configuration</text>
-        </text>
-        <text name="longdescription" extra="true">
-            <text>Configure System hardware, Bluetooth & Wi-Fi connections. Install updates, addons and visual themes</text>
+            <text>Tools for emulationstation</text>
         </text>
     </view>
 </theme>

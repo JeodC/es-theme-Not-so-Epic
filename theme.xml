@@ -62,7 +62,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <alignment>left</alignment>
             <forceUppercase>0</forceUppercase>
             <fontSize>0.021</fontSize>
-            <color>262626</color>
+            <color>FFFFFF</color>
             <origin>0 0</origin>
             <pos>0.084 0.345</pos>
             <size>0.320 0.033</size>
@@ -72,7 +72,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <alignment>left</alignment>
             <backgroundColor>00000000</backgroundColor>
             <forceUppercase>1</forceUppercase>
-            <color>203040</color>
+            <color>1a8cff</color>
             <origin>0 0</origin>
             <pos>0.082 0.272</pos>
             <size>0.200 0.039</size>
@@ -83,7 +83,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <alignment>left</alignment>
             <forceUppercase>0</forceUppercase>
             <fontSize>0.021</fontSize>
-            <color>262626</color>
+            <color>FFFFFF</color>
             <lineSpacing>1.18</lineSpacing>
             <origin>0 0</origin>
             <pos>0.084 0.322</pos>
