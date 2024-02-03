@@ -8,13 +8,13 @@
     </view>
     <view name="system">
         <text name="sys_line2" extra="true">
-            <text>Options</text>
+            <text>Game & Watch</text>
         </text>
         <text name="shortdescription" extra="true">
-            <text>System Configuration</text>
+            <text>1980  ·  4-bit Handheld Console</text>
         </text>
         <text name="longdescription" extra="true">
-            <text>Configure System hardware, Bluetooth & Wi-Fi connections. Install updates, addons and visual themes</text>
+            <text>Nintendo's Game & Watch gets its name from it featuring a single game as well as a clock on an LCD screen</text>
         </text>
     </view>
 </theme>
