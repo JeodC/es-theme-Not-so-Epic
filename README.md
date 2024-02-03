@@ -1,9 +1,9 @@
-# Not so Epic
+# Repurposed Not so Epic
 
-[1]: #Not-so-Epic
-This is a modern darkish Emulation Station theme with virbrant art based on the [original theme by Chicuelo and c64-dev](https://github.com/c64-dev/es-theme-epicnoir). 
+A fork of a fork repurposed for emulationstation on retro handhelds. Some systems removed, additional systems added.  
+
+Based on the [original theme by Chicuelo and c64-dev](https://github.com/c64-dev/es-theme-epicnoir). 
 Not so Epic also uses [artwork by HerbFargus](https://github.com/HerbFargus/es-theme-tronkyfran)
-Additional systems added by me using various artworks.
 
 ---
 
@@ -35,5 +35,3 @@ This work is licensed under the [Creative Commons Attribution-NonCommercial-Shar
 
 All original artwork belongs to the many artists who devoted their talents and time into making them.
 Most of them can be found in [DeviantArt](http://www.deviantart.com/).
-
-[back to top][1]
