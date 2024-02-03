@@ -3,7 +3,7 @@
 A fork of a fork repurposed for emulationstation on retro handhelds. Some systems removed, additional systems added.  
 
 Based on the [original theme by Chicuelo and c64-dev](https://github.com/c64-dev/es-theme-epicnoir). 
-Not so Epic also uses [artwork by HerbFargus](https://github.com/HerbFargus/es-theme-tronkyfran)
+Not so Epic also uses [artwork by HerbFargus](https://github.com/HerbFargus/es-theme-tronkyfran).
 
 ---
 
